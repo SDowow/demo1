@@ -1,1 +1,12 @@
+
+# Specific files
 secrets.txt
+
+# Ignore these folders (and their contents)
+secrets/
+build/
+dist/
+
+# Ignore files of type
+*.tmp
+*.log
